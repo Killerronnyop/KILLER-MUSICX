@@ -1,52 +1,52 @@
 <h2 align="center">
-    ──「 ʟᴜᴄᴋʏ ダ ᴍᴜsɪᴄ 」──
+    ──「 ᴋɪʟʟᴇʀ ダ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/c3d745fe632ed0a918719.jpg">
+  <img src="https://te.legra.ph/file/8132080118e835e7f9152.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/mrluckyxd/LUCKY-MUSICX/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/mrluckyxd/LUCKY-MUSICX/network/members"> <img src="https://img.shields.io/github/forks/AnonymousR1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/mrluckyxd/LUCKY-MUSICX/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/Killerronnyop/KILLER-MUSICX/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/Killerronnyop/KILLER-MUSICX/network/members"> <img src="https://img.shields.io/github/forks/AnonymousR1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/Killerronnyop/KILLER-MUSICX/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
-<a href="https://github.com/mrluckyxd/LUCKY-MUSICX/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Killerronnyop/KILLER-MUSICX/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
 ## 🅡🅔🅟🅞 🅢🅣🅐🅣🅢
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=mrluckyxd&repo=LUCKY-MUSICX&theme=gray)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Killerronnyop&repo=KILLER-MUSICX&theme=gray)
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
+  <img src="https://te.legra.ph/file/92a73fd4c01eb3de3f44c.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/mrluckyxd/LUCKY-MUSICX"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Killerronnyop/KILLER-MUSICX"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ 」─
 </h3>
 
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/mrluckyxd/LUCKY-MUSICX"><img src="https://img.shields.io/badge/Deploy%20On%20Okteto-black?style=for-the-badge&logo=Okteto" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Killerronnyop/KILLER-MUSICX"><img src="https://img.shields.io/badge/Deploy%20On%20Okteto-black?style=for-the-badge&logo=Okteto" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/terayaarhoomai"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/RONNY_KI_DUNIYA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/cute_boy701"><img src="https://img.shields.io/badge/%20LUCKY-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/LOverveer2"><img src="https://img.shields.io/badge/%20do_dil_ek_jaan143.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
